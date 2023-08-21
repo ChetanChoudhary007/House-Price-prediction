@@ -1,6 +1,6 @@
 # House Price Prediction Project
 
-![House Price Prediction](images/house_price_prediction.jpg)
+<img src="https://miro.medium.com/v2/resize:fit:804/1*D6s2K1y7kjE14swcgITB1w.png" alt="Diabetes Prediction" width="500" height="270">
 
 Welcome to the House Price Prediction project! In this project, we aim to develop a machine learning model that predicts house prices based on various features and attributes. This README.md file will guide you through the project's structure, usage, and how to get started.
 
