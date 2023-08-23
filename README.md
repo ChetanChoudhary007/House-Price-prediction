@@ -53,7 +53,7 @@ Once you have set up the environment, you can start using the project. Here's ho
 
 2. Run the model training and evaluation scripts:
    ```
-   python house_price_prediction.py
+   python house_price_prediction.ipynb
    ```
 
 3. The script will load the data, preprocess it, train the model, and evaluate its performance.
